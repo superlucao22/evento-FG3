@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FG3 Energia//Jantar de Negócios//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fg3-jantar-de-negocios-20261022T174500@fg3energia.com
+DTSTAMP:20261007T000000Z
+DTSTART:20261022T174500
+DTEND:20261022T194500
+SUMMARY:Jantar de Negócios
+LOCATION:R. Eurilemos, 981 - Centro, Arapongas - PR, 86700-155
+DESCRIPTION:A ENGIE e FG3 Energia convidam você para um jantar especial dedicado a fortalecer parcerias e construir juntos o futuro.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
