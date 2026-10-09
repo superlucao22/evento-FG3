@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Evento de Calendario//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:jantar-de-negocios-20261020T190000@openai
+DTSTAMP:20261009T024400Z
+DTSTART;TZID=America/Sao_Paulo:20261020T190000
+DTEND;TZID=America/Sao_Paulo:20261020T200000
+SUMMARY:Jantar de Negócios
+LOCATION:Wine Hunter\, Rod. Mabio Gonçalves Palhano\, 800 - s01 s02 - Palhano 2\, Londrina - PR\, 86055-585
+DESCRIPTION:A ENGIE\, AXS e FG3 Energia convidam você para um jantar especial dedicado a fortalecer parcerias e construir juntos o futuro.
+END:VEVENT
+END:VCALENDAR
